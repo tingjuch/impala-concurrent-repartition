@@ -1,4 +1,4 @@
-## impala-concurrent-repartition
+## Overview
 Simple implementaion of concurrent data ingestion/query with repartition.
 The goal is to solve the performance problem that generating small files due to frequent data ingestion.
 
